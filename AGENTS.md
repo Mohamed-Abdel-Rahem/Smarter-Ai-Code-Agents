@@ -53,3 +53,8 @@ As the app grows, test:
 - Do not run terminal commands unless I ask
 - Modify only needed files
 - Keep code English only
+
+<!-- SPECKIT START -->
+For additional context about technologies to be used, project structure,
+shell commands, and other important information, read the current plan
+<!-- SPECKIT END -->
